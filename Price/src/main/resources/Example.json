@@ -1,0 +1,95 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "price": {
+          "maxAge": 1,
+          "preMarketChangePercent": {
+            "raw": -0.0345991,
+            "fmt": "-3.46%"
+          },
+          "preMarketChange": {
+            "raw": -1.23,
+            "fmt": "-1.23"
+          },
+          "preMarketTime": 1730122142,
+          "preMarketPrice": {
+            "raw": 34.32,
+            "fmt": "34.32"
+          },
+          "preMarketSource": "FREE_REALTIME",
+          "postMarketChange": {},
+          "postMarketPrice": {},
+          "regularMarketChangePercent": {
+            "raw": -0.026863517,
+            "fmt": "-2.69%"
+          },
+          "regularMarketChange": {
+            "raw": -0.954998,
+            "fmt": "-0.95"
+          },
+          "regularMarketTime": 1730136487,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "regularMarketPrice": {
+            "raw": 34.595,
+            "fmt": "34.60"
+          },
+          "regularMarketDayHigh": {
+            "raw": 34.75,
+            "fmt": "34.75"
+          },
+          "regularMarketDayLow": {
+            "raw": 34.21,
+            "fmt": "34.21"
+          },
+          "regularMarketVolume": {
+            "raw": 1804751,
+            "fmt": "1.80M",
+            "longFmt": "1,804,751.00"
+          },
+          "averageDailyVolume10Day": {},
+          "averageDailyVolume3Month": {},
+          "regularMarketPreviousClose": {
+            "raw": 35.55,
+            "fmt": "35.55"
+          },
+          "regularMarketSource": "FREE_REALTIME",
+          "regularMarketOpen": {
+            "raw": 34.3,
+            "fmt": "34.30"
+          },
+          "strikePrice": {},
+          "openInterest": {},
+          "exchange": "NYQ",
+          "exchangeName": "NYSE",
+          "exchangeDataDelayedBy": 0,
+          "marketState": "REGULAR",
+          "quoteType": "EQUITY",
+          "symbol": "CNQ",
+          "underlyingSymbol": null,
+          "shortName": "Canadian Natural Resources Limi",
+          "longName": "Canadian Natural Resources Limited",
+          "currency": "USD",
+          "quoteSourceName": "Nasdaq Real Time Price",
+          "currencySymbol": "$",
+          "fromCurrency": null,
+          "toCurrency": null,
+          "lastMarket": null,
+          "volume24Hr": {},
+          "volumeAllCurrencies": {},
+          "circulatingSupply": {},
+          "marketCap": {
+            "raw": 73605709824,
+            "fmt": "73.61B",
+            "longFmt": "73,605,709,824.00"
+          }
+        }
+      }
+    ],
+    "error": null
+  }
+}
